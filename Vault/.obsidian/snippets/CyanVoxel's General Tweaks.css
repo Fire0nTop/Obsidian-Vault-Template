@@ -55,6 +55,10 @@ img {
   --embed-border-start: 0px solid black !important;
 }
 
+.no-embed-title .embed-title.markdown-embed-title {
+  display: none;
+}
+
 /* .markdown-preview-view */
 .markdown-preview-view {
   border-radius: 6px;
